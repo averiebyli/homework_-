@@ -1,0 +1,1 @@
+SELECT * FROM heart_disease_uci;
